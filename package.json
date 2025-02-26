@@ -2,7 +2,7 @@
   "name": "trashtrack-dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://surya298.github.io/scimira-dev.git",
+  "homepage": "https://surya-mp.github.io/scimira-dev.git",
   "dependencies": {
     "@shadcn/ui": "^0.0.4",
     "@testing-library/dom": "^10.4.0",
