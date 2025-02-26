@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scimira-dev/static/css/main.e6c13ad2.css",
+    "main.js": "/scimira-dev/static/js/main.bd2018ab.js",
+    "static/js/453.5a699b8c.chunk.js": "/scimira-dev/static/js/453.5a699b8c.chunk.js",
+    "index.html": "/scimira-dev/index.html",
+    "main.e6c13ad2.css.map": "/scimira-dev/static/css/main.e6c13ad2.css.map",
+    "main.bd2018ab.js.map": "/scimira-dev/static/js/main.bd2018ab.js.map",
+    "453.5a699b8c.chunk.js.map": "/scimira-dev/static/js/453.5a699b8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bd2018ab.js"
+  ]
+}
